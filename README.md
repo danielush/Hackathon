@@ -1,4 +1,4 @@
-![DEMORC-ezgif com-crop (1)](https://github.com/user-attachments/assets/d1e18fdc-886a-4267-84a6-f33331479ae6)# QueenB X AppsFlyer - BeSafe Hackathon 2025
+# QueenB X AppsFlyer - BeSafe Hackathon 2025
 
 This project was developed during the QueenB X AppsFlyer BeSafe Hackathon 2025 to promote **internet safety for young girls**. Over the course of a month, our team built a comprehensive web application and browser extension to help young girls validate harmful content they encounter online.
 
@@ -24,8 +24,7 @@ This solution empowers young girls to assess online content safely and access su
 
 ---
 ### Demo
-![Uploading DEMORC-ezgif.com-crop (1).gif…]()
-## Architecture
+![DEMORC-ezgif com-crop (1)](https://github.com/user-attachments/assets/d1e18fdc-886a-4267-84a6-f33331479ae6)## Architecture
 
 Here is an overview of the system architecture:
 
