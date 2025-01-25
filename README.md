@@ -23,6 +23,8 @@ Our project includes two main components:
 This solution empowers young girls to assess online content safely and access support when needed.
 
 ---
+### Demo
+![DEMORC-ezgif com-crop](https://github.com/user-attachments/assets/3870203c-74c8-42e9-ad38-e88c35d9e26a)
 
 ## Architecture
 
