@@ -24,7 +24,8 @@ This solution empowers young girls to assess online content safely and access su
 
 ---
 ### Demo
-![DEMORC-ezgif com-crop (1)](https://github.com/user-attachments/assets/d1e18fdc-886a-4267-84a6-f33331479ae6)## Architecture
+![DEMORC-ezgif com-crop (1)](https://github.com/user-attachments/assets/d1e18fdc-886a-4267-84a6-f33331479ae6)
+## Architecture
 
 Here is an overview of the system architecture:
 
